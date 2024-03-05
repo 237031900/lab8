@@ -1,8 +1,8 @@
 export const config = {
     host: "",
     port: 5432,
-    user: "",
-    password: "",
+    user: "admin",
+    password: "password",
     database: "",
     connection_limit: 100
 }
